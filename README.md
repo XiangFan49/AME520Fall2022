@@ -20,5 +20,11 @@
 3. Please read this text:https://github.com/tejaswigowda/ame520Fall2022/blob/main/READINGS/HCI_Design_Somatics_WITHCOMMENTS_p54-loke-schiphorst-thesomaticturninhuman-computerinteraction.pdf Can you please answer these:
 
   * What does somatics have to offer to the field of HCI?
+Somatic practices explicitly frame the moral relationship between self-care and our ability to care and act in the world. Somatics proposes an improved practice of self-cultivation, aligned with the social principles of research through HCI design, to transform the world from its current state to a preferred state. Somatic approaches in HCI build on established methods of role-playing, scenario enactment, bodystorming, and other performative approaches inspired from theater practices, which advocate for an embodied understanding of design situations and the generative power of physical engagement by thinking through doing (or moving). In addition to the technological tools currently being developed (such as personal medical informatics for processing data and analysis), somatic approaches can provide individuals with the tools and techniques to gain some sense of control over their own mental, emotional, and physical health.
   * What are the 4 somatic values?
+• Self as a set of states
+• Attention as an operator
+• Experience as a skill
+• Interconnectedness as empathy
   * How can somatic studies be applied to your current field of study/research?
+Somatic studies are highly relevant to the sensory systems I study, and research in evolutionary psychology has shown that our sensory systems, and even consciousness itself, are simply by-products of the body's adaptation to movement in the environment.
