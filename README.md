@@ -12,6 +12,7 @@
   * Do you think lack of movement (think "metaverse") lead us to digest our brains?
  
 * Next read this text: https://github.com/tejaswigowda/ame520Fall2022/blob/main/READINGS/Dourish%20excerpt%20chap1'HistoryofInteraction.pdf
+
 Answer these questions:
 
   * Why is understanding the history of interaction important for current designers?
@@ -19,6 +20,7 @@ Answer these questions:
   * Can you summarize the history of Human Computer Interaction from this paper (in 2 paragraphs)
 
 * Please read this text: https://github.com/tejaswigowda/ame520Fall2022/blob/main/READINGS/HCI_Design_Somatics_WITHCOMMENTS_p54-loke-schiphorst-thesomaticturninhuman-computerinteraction.pdf
+
 Can you please answer these:
 
   * What does somatics have to offer to the field of HCI?
