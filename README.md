@@ -27,4 +27,4 @@ Somatic practices explicitly frame the moral relationship between self-care and 
 • Experience as a skill
 • Interconnectedness as empathy
   * How can somatic studies be applied to your current field of study/research?
-Somatic studies are highly relevant to the sensory systems I study, and research in evolutionary psychology has shown that our sensory systems, and even consciousness itself, are simply by-products of the body's adaptation to movement in the environment.Therefore understanding our senses through the lens of somatics will provide more realistic results.
+Somatic studies are highly relevant to the sensory systems I study, and research in evolutionary psychology has shown that our sensory systems, and even consciousness itself, are simply by-products of the body's adaptation to movement in the environment. Therefore understanding our senses through the lens of somatics will provide more realistic results.
