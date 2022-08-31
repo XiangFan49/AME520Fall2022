@@ -19,6 +19,7 @@
 ### Next read this text:https://github.com/tejaswigowda/ame520Fall2022/blob/main/READINGS/Dourish%20excerpt%20chap1'HistoryofInteraction.pdf Answer these questions:
 
 1. Why is understanding the history of interaction important for current designers?
+* The dramatic increase in computational power and the ever-expanding context in which people use this power indicated the need for new ways of interacting with computers. And these new ways can be better adapted to our needs and capabilities. To effectively develop these new methods, current designers need to understand not only what is being done in the HCI world but also how it is being done. This means that we need to understand not only that HCI research is concerned with modeling the world and places of interaction but, at the same time, understanding its traditions based on a procedural foundation.
 2. How will understanding interaction help us navigate emerging technologies -- AR, XR etc.
 3. Can you summarize the history of Human Computer Interaction from this paper (in 2 paragraphs)
   
