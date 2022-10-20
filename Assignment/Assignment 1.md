@@ -4,7 +4,6 @@
 ## ID: 1217444904
 
 ### Please watch this video (https://www.ted.com/talks/daniel_wolpert_the_real_reason_for_brains) and answer the following questions:
-
 1. Why is Baysian inference applicable modeling how the brain performs movement?
 * Because the brain's noise in signal transmission leads to biased control of movement and uncertainty in decision-making, Bayesian models are needed to make predictions and learn how the brain works.
 2. What do you think about the evolutionary adaptation of the "best" (optimal) movement we all share?
@@ -21,7 +20,6 @@
 * I think in addition to Markov chains, there are artificial neural network techniques that are also applicable to these issues. This is a machine learning process called deep learning that uses interconnected nodes or neurons in a hierarchical structure similar to the human brain. It can create adaptive systems that computers use to learn from mistakes and keep improving. Therefore, artificial neural networks can try to solve complex problems, such as summarizing documents or face recognition more accurately.
  
 ### Next read this text:https://github.com/tejaswigowda/ame520Fall2022/blob/main/READINGS/Dourish%20excerpt%20chap1'HistoryofInteraction.pdf Answer these questions:
-
 1. Why is understanding the history of interaction important for current designers?
 * The dramatic increase in computational power and the ever-expanding context in which people use this power indicated the need for new ways of interacting with computers. And these new ways can be better adapted to our needs and capabilities. To effectively develop these new methods, current designers need to understand not only what is being done in the HCI world but also how it is being done. This means that we need to understand not only that HCI research is concerned with modeling the world and places of interaction but, at the same time, understanding its traditions based on a procedural foundation.
 2. How will understanding interaction help us navigate emerging technologies -- AR, XR etc.
@@ -31,7 +29,6 @@
 * With the development of symbolic interaction, the emergence of textual interaction seems to be some kind of inevitable because the most developed forms of symbolic interaction we know are textual interaction and natural language. Because the HCI process through language engages our capabilities as human beings more than ever before, it is more likely to be considered more interactive than ever. Text interaction intersects with traditional programming as a dialogue. Then we entered the stage of graphical interaction. Like from symbolic to textual interaction, from textual to graphical interaction, it means that both as a way of information dissemination and as a human experience have been greatly subverted, and the HCI process has entered a two-dimensional space from a one-dimensional single information flow.
   
 ### Please read this text:https://github.com/tejaswigowda/ame520Fall2022/blob/main/READINGS/HCI_Design_Somatics_WITHCOMMENTS_p54-loke-schiphorst-thesomaticturninhuman-computerinteraction.pdf Can you please answer these:
-
 1. What does somatics have to offer to the field of HCI?
 * Somatic practices explicitly frame the moral relationship between self-care and our ability to care and act in the world. Somatics proposes an improved practice of self-cultivation, aligned with the social principles of research through HCI design, to transform the world from its current state to a preferred state. Somatic approaches in HCI build on established methods of role-playing, scenario enactment, bodystorming, and other performative approaches inspired from theater practices, which advocate for an embodied understanding of design situations and the generative power of physical engagement by thinking through doing (or moving). In addition to the technological tools currently being developed (such as personal medical informatics for processing data and analysis), somatic approaches can provide individuals with the tools and techniques to gain some sense of control over their own mental, emotional, and physical health.
 2. What are the 4 somatic values?
