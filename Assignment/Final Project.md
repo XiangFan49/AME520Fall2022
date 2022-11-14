@@ -12,3 +12,6 @@
 ### Stage 2 - Import the model into Unity (Blender & Unity)
 * Texture Baking
 * Texture Binding
+
+### Stage Results：
+![image load](https://github.com/XiangFan49/AME520Fall2022/raw/main/Assignment/Stage%201%203D%20Modeling.png)
