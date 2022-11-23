@@ -14,7 +14,7 @@
 * Texture Binding
 
 ### Stage Results：
-![image load](https://github.com/XiangFan49/AME520Fall2022/raw/main/Assignment/Stage%202%20Import%20the%20model%20into%20Unity.png)
+![image load](https://github.com/XiangFan49/AME520Fall2022/raw/main/Assignment/Final%20Project/Stage%202%20Import%20the%20model%20into%20Unity.png)
 
 ### Stage 3 - Animation (Blender & Optitrack)
 * Skeleton rigging
