@@ -24,10 +24,12 @@
 ### Stage Results：
 ![image load](https://github.com/XiangFan49/AME520Fall2022/raw/main/Assignment/Final%20Project/Stage%202%20Import%20the%20model%20into%20Unity.png)
 
-### Stage 3: Make an animation for the character (Blender)
+### Stage 3: Make an animation for the character (Blender & Optitrack)
 * Skeleton rigging
 * Generate data through motion capture.
 * Bind motion capture data to skeleton for animation
+### Stage Results：
+![image load](https://github.com/XiangFan49/AME520Fall2022/raw/main/Assignment/Final%20Project/Stage%202%20Import%20the%20model%20into%20Unity.png)
 
 ### Stage 4 - Design Interaction Mechanism (Unity)
 * Add controller to the character
