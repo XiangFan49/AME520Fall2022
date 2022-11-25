@@ -28,3 +28,9 @@
 * Skeleton rigging
 * Generate data through motion capture.
 * Bind motion capture data to skeleton for animation
+
+### Stage 4 - Design Interaction Mechanism (Unity)
+* Add controller to the character
+* Make animation controller
+* Import a simple scene
+* Make a camera that can move with the character and adjust the viewing angle according to the mouse position
