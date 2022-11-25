@@ -17,7 +17,14 @@
 ### Stage Results：
 ![image load](https://github.com/XiangFan49/AME520Fall2022/raw/main/Assignment/Final%20Project/Stage%201%203D%20Modeling.png)
 
-### Stage 2: Make an animation for the character (Blender)
+### Stage 2 - Import the Model into Unity (Blender & Unity)
+* Make unwrapable UV maps for models
+* Bake the model's shader nodes into textures
+* Import the model into Unity in FBX mode and reconnect the model texture there
+### Stage Results：
+![image load](https://github.com/XiangFan49/AME520Fall2022/raw/main/Assignment/Final%20Project/Stage%202%20Import%20the%20model%20into%20Unity.png)
+
+### Stage 3: Make an animation for the character (Blender)
 * Skeleton rigging
 * Generate data through motion capture.
 * Bind motion capture data to skeleton for animation
