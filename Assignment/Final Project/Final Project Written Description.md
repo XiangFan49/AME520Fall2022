@@ -29,7 +29,7 @@
 * Generate data through motion capture.
 * Bind motion capture data to skeleton for animation
 ### Stage Results：
-![image load](https://github.com/XiangFan49/AME520Fall2022/raw/main/Assignment/Final%20Project/Stage%202%20Import%20the%20model%20into%20Unity.png)
+![image load](https://github.com/XiangFan49/AME520Fall2022/raw/main/Assignment/Final%20Project/Stage%203%20Animation.png)
 
 ### Stage 4 - Design Interaction Mechanism (Unity)
 * Add controller to the character
