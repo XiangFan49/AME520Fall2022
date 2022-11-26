@@ -24,19 +24,29 @@
 ### Stage Results：
 ![image load](https://github.com/XiangFan49/AME520Fall2022/raw/main/Assignment/Final%20Project/Stage%202%20Import%20the%20model%20into%20Unity.png)
 
-### Stage 3: Make an animation for the character (Blender & Optitrack)
-* Skeleton rigging
+### Stage 3: Make an Animation for the Character (Blender & Optitrack)
+* Skeleton rigging to make the bones to drive the mesh of the 3D model
 * Generate data through motion capture.
 * Bind motion capture data to skeleton for animation
 ### Stage Results：
 ![image load](https://github.com/XiangFan49/AME520Fall2022/raw/main/Assignment/Final%20Project/Stage%203%20Animation.png)
 
 ### Stage 4: Design Interaction Mechanism (Unity)
-* Add controller to the character
 * Make animation controller
+* Add controller to the character
 * Import a simple scene
 * Make a camera that can move with the character and adjust the viewing angle according to the mouse position
 ### Stage Results：
 ![image load](https://github.com/XiangFan49/AME520Fall2022/raw/main/Assignment/Final%20Project/Stage%204%20Design%20Interaction%20Mechanism.png)
 
-## Design gaps:
+## Design Gaps:
+* At the beginning of the research and development of the project, it was considered to be designed as a real-time interactive system. However, in the actual attempt, it was found that the plug-in originally thought to transmit data from Motive to Unity in real time could not be used, so it had to be displayed with pre-recorded animation
+* When doing texture baking, because it is not clear how the rendering system is composed in Unity, many material details are lost when imported from Blender to Unity
+* Because the project went through a significant workflow shift halfway through development, there was no time to add collision volumes and fluid effects to the clothes, making the clothes in the animation appear like rigid bodies
+* Also for the same reason as above there was no time to make the scene
+
+## Project Future Outlook (In Order of Priority):
+* Solve the problem of real-time motion capture data transmission. Possible reference solution: use VR equipment to complete motion capture and playback at the same time
+* Create scenes that generate optical illusions
+* Familiar with the use of shaders in Unity to optimize non-photorealistic rendering of models
+* Add physical effect attributes to models and objects in the scene
