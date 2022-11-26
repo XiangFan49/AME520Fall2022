@@ -17,7 +17,7 @@
 ### Stage Results：
 ![image load](https://github.com/XiangFan49/AME520Fall2022/raw/main/Assignment/Final%20Project/Stage%201%203D%20Modeling.png)
 
-### Stage 2 - Import the Model into Unity (Blender & Unity)
+### Stage 2: Import the Model into Unity (Blender & Unity)
 * Make expandable UV maps for models
 * Bake the model's shader nodes into textures
 * Import the model into Unity in FBX mode and reconnect the model texture there
@@ -31,7 +31,7 @@
 ### Stage Results：
 ![image load](https://github.com/XiangFan49/AME520Fall2022/raw/main/Assignment/Final%20Project/Stage%203%20Animation.png)
 
-### Stage 4 - Design Interaction Mechanism (Unity)
+### Stage 4: Design Interaction Mechanism (Unity)
 * Add controller to the character
 * Make animation controller
 * Import a simple scene
