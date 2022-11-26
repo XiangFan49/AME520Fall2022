@@ -38,3 +38,5 @@
 * Make a camera that can move with the character and adjust the viewing angle according to the mouse position
 ### Stage Results：
 ![image load](https://github.com/XiangFan49/AME520Fall2022/raw/main/Assignment/Final%20Project/Stage%204%20Design%20Interaction%20Mechanism.png)
+
+## Design gaps:
