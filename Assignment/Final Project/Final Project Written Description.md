@@ -50,3 +50,5 @@
 * Create scenes that generate optical illusions
 * Familiar with the use of shaders in Unity to optimize non-photorealistic rendering of models
 * Add physical effect attributes to models and objects in the scene
+
+Final vision for the future
